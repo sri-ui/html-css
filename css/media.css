@@ -1,0 +1,28 @@
+@media only screen and (min-width: 1200px) 
+{
+	section
+	{
+		width: 80%;
+	}
+	div
+	{
+		width: 294px;
+	}
+
+}
+@media only screen and (max-width: 1024px) {
+	section
+	{
+		float: none;
+		width: auto;
+		height: auto;
+	}
+	aside
+	{
+		float: none;
+		width: auto;
+	}
+	div{
+		width: auto;
+	}
+}
